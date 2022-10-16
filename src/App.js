@@ -30,17 +30,6 @@ function App() {
       < Footer />
 
       </Router>
-{/* Home */}
-      {/* Header */}
-
-      {/*Banner*/}
-           {/* Search*/}
-    
-      {/* Card*/}
-          {/* Footer*/}
-
-    {/* Search Page */}
-          {/* ...... */}
 
      </div>
   );

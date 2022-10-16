@@ -18,55 +18,55 @@
     overflow: hidden;
 }
 
-.searchResult__info {
+.searchResult_info {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     padding-left: 20px;
 }
 
-.searchResult__heart {
+.searchResult_heart {
     position: absolute;
     top: 20px;
     right: 40px;
 }
 
-.searchResult__infoTop {
+.searchResult_infoTop {
     width: 40vw;
 }
 
-.searchResult__infoTop > h3 {
+.searchResult_infoTop > h3 {
     font-weight: 300;
     margin-top: 10px;
 }
 
-.searchResult__infoTop > p {
+.searchResult_infoTop > p {
     margin-top: 10px;
     font-size: 13px;
     color: gray;
   }
   
-.searchResult__infoBottom {
+.searchResult_infoBottom {
     display: flex;
     justify-content: space-between;
 }
 
 
-.searchResult__star {
+.searchResult_star {
     color: red;
 }
 
 
-.searchResult__stars {
+.searchResult_stars {
     display: flex;
     align-items: center;
 }
 
-.searchResults__price > p {
+.searchResults_price > p {
     text-align: right;
   }
 
-.searchResults__price {
+.searchResults_price {
     position: absolute;
     bottom: 20px;
     right: 30px;
